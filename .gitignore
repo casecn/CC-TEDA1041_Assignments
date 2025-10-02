@@ -1,3 +1,44 @@
-*TEDA_1040*
+# Class Modues
+TEDA_1040*
+
+#Mac Operating system file
 .DS_Store
+
+#Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
+
+#Python Byte-compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+#Distribution and Packaging files.
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+#Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+#Environment-specific files
+.env
+venv/
+
+#Sensitive information
+*.log
+config.ini
+secrets.py
